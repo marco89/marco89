@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marco.
 - 👀 I’m interested in coding, cooking and hiking.
-- 🌱 I’m currently learning Java/Python/SQL.
+- 🌱 I’m currently learning Java/Javascript/Python/SQL.
 - 💞️ I’m looking to collaborate on simple projects to build experience. 
 - 📫 How to reach me on Discord - MarcoM#6961
 
